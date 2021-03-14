@@ -1,4 +1,4 @@
-.header{
+.main-header{
     display:flex;
     justify-content: space-between;
     background-color: #7C5E99;
@@ -6,6 +6,3 @@
     padding: 10px 20px 10px 20px;
   }
 
-  .header .navitagion {
-    text-align: right;
-  }
