@@ -11,3 +11,11 @@
 .card-project.-blue{
     background-color: #4C5B84;
 }
+
+.section.-bgblack{
+    background-color: black;
+}
+
+.section.-bdfirst{
+    border-color: #F25A70;
+}
