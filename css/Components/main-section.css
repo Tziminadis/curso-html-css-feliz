@@ -16,3 +16,10 @@
     background-color: black;
 }
 
+.main-section.-bdblack {
+    border-color: black;
+}
+
+.main-section.-bgsecond {
+    background-color: #7C5E99;
+}
